@@ -1,2 +1,2 @@
-# First-work-on-Web-Tech
+# Work-on-Web-Tech
 Web Technologies
